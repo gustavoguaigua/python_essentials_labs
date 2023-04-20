@@ -1,0 +1,1 @@
+print('La palabra casa en "inglés" es: \t"house"')
